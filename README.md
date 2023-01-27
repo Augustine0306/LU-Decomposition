@@ -72,8 +72,9 @@ print(x)
 ```
 
 ## Output:
-![lu decomposition](LLLL.png)
-![lu decompositionT](PPPPP.png)
+![LLLL](https://user-images.githubusercontent.com/119404460/215119836-de121d54-308f-4a50-9600-2810a4e789b9.png)
+![PPPPP](https://user-images.githubusercontent.com/119404460/215119878-466ce061-c343-48d8-b6b1-70a0f23be58c.png)
+
 
 ## Result:
 Thus the program to find the LU Decomposition of a matrix is written and verified using python programming.
